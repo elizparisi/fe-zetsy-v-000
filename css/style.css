@@ -55,3 +55,7 @@ p {
 footer {
   text-align: right;
 }
+
+.small {
+  font-size: 14px;
+}
