@@ -32,6 +32,10 @@ h1 {
   border-bottom: 1px solid #ccc;
 }
 
+h1 a {
+  
+}
+
 #featured img {
   border: 5px rgb(152,173,166) solid;
 }
